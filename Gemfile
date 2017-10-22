@@ -4,3 +4,5 @@ source "https://rubygems.org/"
 gem "sinatra", "~> 1.4"
 gem 'activerecord', '5.1.4'
 gem "rake"
+gem "mysql2"
+gem "sinatra-activerecord"

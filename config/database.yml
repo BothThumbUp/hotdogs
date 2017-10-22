@@ -1,0 +1,6 @@
+development:
+  adapter: mysql2
+  username: root
+  database: hotdogs_development
+  host: localhost
+  port: 3306
