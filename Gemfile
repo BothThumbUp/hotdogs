@@ -6,3 +6,7 @@ gem 'activerecord', '5.1.4'
 gem "rake"
 gem "mysql2"
 gem "sinatra-activerecord"
+gem "simple_form"
+gem "react-sinatra"
+gem "paypal-sdk-rest"
+

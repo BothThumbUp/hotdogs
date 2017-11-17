@@ -1,0 +1,8 @@
+<h1>Blog Post</h1>
+<%= simple_form_for @post do |f| %>
+  <%= f.input :date %>
+  <%= f.input :body %>
+  <%= f.input :title %>
+  <%= f.input :video %>
+  <%= f.button :submit %>
+<% end %>
